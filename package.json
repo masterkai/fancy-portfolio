@@ -2,7 +2,7 @@
   "name": "fancy-portfolio",
   "version": "1.0.0",
   "description": "This is a fancy portfolio to stand out my character online",
-  "main": "index.js",
+  "main": "index.html",
   "directories": {
     "lib": "lib"
   },
