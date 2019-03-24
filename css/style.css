@@ -1286,6 +1286,12 @@ footer .credits a {
   }
 }
 
+@media (max-width:640px) {
+  section {
+    background-attachment:initial;
+  }
+}
+
 
 /* Fonts */
 
