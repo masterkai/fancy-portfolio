@@ -6,17 +6,6 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sanion/fancy-portfolio.git"
-  },
   "author": "Elvin Damirov",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sanion/fancy-portfolio/issues"
-  },
-  "homepage": "https://github.com/sanion/fancy-portfolio#readme"
+
 }
